@@ -19,7 +19,8 @@ public class MultyMassive {
         int[][] arrSecond = {
                 {1, 22},
                 {2, 12, 4, 99},
-                {12, 54, 66, 6, 153}};
+                {12, 54, 66, 6, 153},
+                {15, 12, 42}};
 //        System.out.println(Arrays.toString(arr5));
 //        System.out.println(Arrays.deepToString(arr5));
 //        System.out.println(Arrays.deepToString(arrSecond));
