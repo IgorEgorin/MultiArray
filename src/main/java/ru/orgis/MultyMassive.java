@@ -5,12 +5,12 @@ import java.util.Arrays;
 public class MultyMassive {
     public static void main(String[] args) {
         int[] ar = new int[3];
-        int[][] arr = new int[3][5];
-//        arr[0] = new int[5];
-//        arr[1] = new int[2];
-//        arr[2] = new int[4];
+        int[][] arr5 = new int[5][5];
+//        arr5[0] = new int[5];
+//        arr5[1] = new int[2];
+//        arr5[2] = new int[4];
 
-        arr[2][2] = 5;
+        arr5[2][2] = 5;
 //        int[][] arrTemp = {
 //                new int[2],
 //                new int[10],
@@ -20,8 +20,8 @@ public class MultyMassive {
                 {1, 22},
                 {2, 12, 4, 99},
                 {12, 54, 66, 6, 153}};
-//        System.out.println(Arrays.toString(arr));
-//        System.out.println(Arrays.deepToString(arr));
+//        System.out.println(Arrays.toString(arr5));
+//        System.out.println(Arrays.deepToString(arr5));
 //        System.out.println(Arrays.deepToString(arrSecond));
 
 
