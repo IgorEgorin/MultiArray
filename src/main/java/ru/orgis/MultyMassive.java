@@ -31,7 +31,7 @@ public class MultyMassive {
 //        int [[0],[0],[0],[0]]
         for (int i = 0; i < arrSecond.length; i++) {
             for (int j = 0; j < arrSecond[i].length; j++) {
-                System.out.print(arrSecond[i][j] + " ");
+                System.out.print(arrSecond[i][j] * 2 + " ");
             }
             System.out.println();
         }
